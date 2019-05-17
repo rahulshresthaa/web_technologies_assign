@@ -144,3 +144,25 @@ img {
     animation-name: fade;
     animation-duration: 1.5s;
 }
+
+.contact_us {
+    height: 56vh;
+    text-align: center;
+    margin-top: 80px;
+}
+
+.contact_us span {
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline;
+    color: #fff;
+    font-family: 'Courier New';
+    margin-bottom: 200px;
+}
+
+input {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
